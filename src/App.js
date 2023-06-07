@@ -5,7 +5,7 @@ import TicketForm from './components/TicketForm/TicketForm';
 function App() {
   return (
     <div className="App">
-      //<EventForm />
+    <EventForm />
     <TicketForm />
     </div>
   )
